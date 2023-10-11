@@ -3,7 +3,7 @@
 **MSTest란?**
 class 작성시 작성한 class의 기능만 간단하게 검증 할 수 있는 VisualStudio(.net)의 테스트 라이브러리
 ***
-![1.png](../DCOM/DevManual/UnitTest/1.png)
+![1.png](../DevManual/UnitTest/1.png)
 
 **Edit 요령**
 1. 솔루션탐색기 최상단(R Click) - 추가(D) - 새 프로젝트(N) - MSTest 테스트 프로젝트
@@ -152,7 +152,7 @@ namespace HY_UTest01
 **참고**
 [DatabaseManager.cs](https://github.com/HANLAIMS/RD136-SW-DCOM/blob/main/DCOM/Managers/DatabaseManager.cs)
 ***
-![2.png](../DCOM/DevManual/UnitTest/2.png)
+![2.png](../DevManual/UnitTest/2.png)
 
 **테스트 방법**
  1. 상단메뉴 - 테스트(s)
